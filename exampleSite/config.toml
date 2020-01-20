@@ -1,4 +1,4 @@
-baseURL = "https://signofthefishtest.com"
+baseURL = "https://signofthefishtest.netlify.com"
 disableLanguages = []
 disqusShortname = ""
 paginate = "4"
