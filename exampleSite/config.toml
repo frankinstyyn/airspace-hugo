@@ -46,7 +46,7 @@ hasChildren = true
 name = "Pages"
 weight = 5
 [params]
-author = "Themefisher"
+author = "Frankinstyyn"
 contact_form_action = "#"
 description = "This is meta description"
 email = "demo@email.com"
