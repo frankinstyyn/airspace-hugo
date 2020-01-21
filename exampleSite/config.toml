@@ -19,26 +19,28 @@ home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
+[menu]
+footer = []
 [[menu.main]]
-hasChildren = true
-name = "Pages"
-weight = 5
-[[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 6
-[[menu.main]]
-URL = "blog"
-name = "Opening Hours"
-weight = 4
+URL = "project"
+name = "History"
+weight = 2
 [[menu.main]]
 URL = "service"
 name = "Menu"
 weight = 3
 [[menu.main]]
-URL = "project"
-name = "History"
-weight = 2
+URL = "blog"
+name = "Opening Hours"
+weight = 4
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 6
+[[menu.main]]
+hasChildren = true
+name = "Pages"
+weight = 5
 [params]
 author = "Frankinstyyn"
 contact_form_action = "#"
