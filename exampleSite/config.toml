@@ -37,10 +37,6 @@ weight = 4
 URL = "contact"
 name = "Contact"
 weight = 6
-[[menu.main]]
-hasChildren = true
-name = "Pages"
-weight = 5
 [params]
 author = "Frankinstyyn"
 contact_form_action = "#"
