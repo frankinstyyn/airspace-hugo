@@ -49,7 +49,7 @@ name = "Home"
 weight = 1
 [[menu.main]]
 URL = "project"
-name = "Project"
+name = "History"
 weight = 2
 [[menu.main]]
 URL = "service"
