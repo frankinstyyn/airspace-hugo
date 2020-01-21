@@ -53,7 +53,7 @@ name = "History"
 weight = 2
 [[menu.main]]
 URL = "service"
-name = "Service"
+name = "About"
 weight = 3
 [[menu.main]]
 URL = "blog"
