@@ -51,7 +51,7 @@ contact_form_action = "#"
 description = "This is meta description"
 email = "demo@email.com"
 google_analitycs_id = "Your ID"
-location = "North Main Street,Brooklyn Australia"
+location = "East Midlands"
 logo = "images/logo.png"
 mobile = "0124857985320"
 [params.gmap]
