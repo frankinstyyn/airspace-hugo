@@ -57,7 +57,7 @@ name = "Menu"
 weight = 3
 [[menu.main]]
 URL = "blog"
-name = "Blog"
+name = "Opening Hours"
 weight = 4
 [[menu.main]]
 hasChildren = true
