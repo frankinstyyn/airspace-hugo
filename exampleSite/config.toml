@@ -7,7 +7,7 @@ theme = "airspace-hugo"
 title = "Sign of The Fish"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2019 [Themefisher](https://themefisher.com) All Rights Reserved"
+copyright = "Created by FrankinstyynCopyright &copy; 2019"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
