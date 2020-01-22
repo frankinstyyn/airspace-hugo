@@ -7,7 +7,7 @@ theme = "airspace-hugo"
 title = "Sign of The Fish"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Created by FrankinstyynCopyright &copy; 2019"
+copyright = "Created by Frankinstyyn - Copyright &copy; 2019"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
